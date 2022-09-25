@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm h0llu</h1>
-<h3 align="center">BI/Java/Python developer from Russia</h3>
+# Hi 👋, I'm h0llu
+## BI/Java/Python developer from Russia
 
 - 🔭 I’m currently working on **Stream Processing GUI Tool**
 
