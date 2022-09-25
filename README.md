@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **everything ;)**
 
-- 📫 How to reach me **[@h0llu]**
-
 ### Connect with me
 
 [![website](./img/tg-logo.png)](https://t.me/h0llu)
